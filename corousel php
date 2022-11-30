@@ -1,0 +1,153 @@
+ <section id="trustpilot-rating" class="container p-5">
+        <div class="row">
+            <div class="col-md-12">
+
+                <h2 class="display-5 mb-5 text-primary text-center">Rated Excellent for Customer Satisfaction</h2>
+
+                <div id="carouselReviews" class="carousel slide" data-bs-ride="carousel" data-bs-interval="false">
+
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <div class="row">
+
+                                <div class="col-lg-3 mb-3">
+                                    <div class="card p-3 bg-light">
+                                        <img class="img-fluid pb-3" style="max-width:150px;" alt="5 stars on trustpilot" src="/wp-content/uploads/2022/11/Group-1.png">
+
+                                        <div class="card-body">
+                                            <h4 class="card-title">Highly recommend excellent service</h4>
+                                            <p class="card-text">Would highly recommend Vaj so easy and efficient to do business with. If I ever need to sell a car again I would straight to Vaj without any hesitation.</p>
+                                            <p class="card-text pb-0 mb-0">
+                                                - Claire Cartwright
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-3 mb-3">
+                                    <div class="card p-3 bg-light">
+                                        <img class="img-fluid pb-3" style="max-width:150px;" alt="5 stars on trustpilot" src="/wp-content/uploads/2022/11/Group-1.png">
+
+                                        <div class="card-body">
+                                            <h4 class="card-title">Easiest car transaction I’ve ever taken part in</h4>
+                                            <p class="card-text">Seriously impressed, sold this company our BMW I3 yesterday and the entire thing was completed within 12 hours. Had a phonecall within 30 mins of the advert going ‘live’, no annoying haggling, great communication throughout, monies were in our bank account before his driver had even left Liverpool to collect the vehicle. Will definitely reach out if we ever need to sell again.</p>
+                                            <p class="card-text pb-0 mb-0">
+                                                - Isobel</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-3 mb-3">
+                                    <div class="card p-3 bg-light">
+                                        <img class="img-fluid pb-3" style="max-width:150px;" alt="5 stars on trustpilot" src="/wp-content/uploads/2022/11/Group-1.png">
+
+                                        <div class="card-body">
+                                            <h4 class="card-title">Very simple fast and easy way to sell</h4>
+                                            <p class="card-text">Very simple fast and easy way to sell my car. Great communication throughout, including eta for pickup. Money went straight into bank account and pick up guy was in and out in 5 mins. I would recommend this service to anyone trying to sell a car.</p>
+                                            <p class="pb-0 mb-0">
+                                                - Jamie
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-3 mb-3">
+                                    <div class="card p-3 bg-light">
+                                        <img class="img-fluid pb-3" style="max-width:150px;" alt="5 stars on trustpilot" src="/wp-content/uploads/2022/11/Group-1.png">
+
+                                        <div class="card-body">
+                                            <h4 class="card-title">Advertised my Mercedes Coupe</h4>
+                                            <p class="card-text">Advertised my Mercedes Coupe on Autotrader before being contacted by Vaj Kukadia at The Car Buyers Group. I was quite suspicious at first that he was a serious prospective buyer but after a straight forward negotiation Vaj made an offer close to my asking price and the deal was settled. He hadn’t even seen the car and took me at my word which I thought strange leaving me still apprehensive I may be being messed about or scammed in some way. However true to his work the full cleared amount appeared in my bank account and the car was collected by Danny on his low loader at exactly the arranged scheduled time the next morning. Communication was excellent. Five star buyer. Recommended.</p>
+                                            <p class="card-text pb-0 mb-0">
+                                                - John Wain
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div><!-- // row -->
+                        </div>
+                        <!--// carousel-item -->
+
+
+                        <div class="carousel-item">
+                            <div class="row">
+
+                                <div class="col-lg-3 mb-3">
+                                    <div class="card p-3 bg-light">
+                                        <img class="img-fluid pb-3" style="max-width:150px;" alt="5 stars on trustpilot" src="/wp-content/uploads/2022/11/Group-1.png">
+
+                                        <div class="card-body">
+                                            <h4 class="card-title">Positive experience</h4>
+                                            <p class="card-text">I’ve never had quite as positive experience selling my car as dealing with Vaj. Really great communication, very fair and honest and did absolutely everything he’d committed to. I’d recommend as a business and wouldn’t hesitate to work with the company again (either as a seller or a buyer) Thank you Vaj</p>
+                                            <p class="card-text pb-0 mb-0">
+                                                - PD
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-3 mb-3">
+                                    <div class="card p-3 bg-light">
+                                        <img class="img-fluid pb-3" style="max-width:150px;" alt="5 stars on trustpilot" src="/wp-content/uploads/2022/11/Group-1.png">
+
+                                        <div class="card-body">
+                                            <h4 class="card-title">Excellent Service</h4>
+                                            <p class="card-text">sold our car to vaj after he contacted us via autorader add. Excellent service once price was agreed, very polite and professional, even made payment for the car prior to seeing it so we could clear the outstanding finance before sale. Excellent allround would recommend.</p>
+                                            <p class="card-text pb-0 mb-0">
+                                                - Ben Mullane</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-3 mb-3">
+                                    <div class="card p-3 bg-light">
+                                        <img class="img-fluid pb-3" style="max-width:150px;" alt="5 stars on trustpilot" src="/wp-content/uploads/2022/11/Group-1.png">
+
+                                        <div class="card-body">
+                                            <h4 class="card-title">Honest down to earth people</h4>
+                                            <p class="card-text">Honest down to earth people, had a call from Vaj, talked for a bit regarding the car and everything else. Within less than 24 hours everything was done had the money in my account right away. I give it 5/5 stars. Also was lovely meeting Jamie you can tell the business is like a family , they all work together superb. Would highly recommend selling your car on “The Car Buyers Group”.</p>
+                                            <p class="card-text pb-0 mb-0">
+                                                - Ilyas Shire
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-3 mb-3">
+                                    <div class="card p-3 bg-light">
+                                        <img class="img-fluid pb-3" style="max-width:150px;" alt="5 stars on trustpilot" src="/wp-content/uploads/2022/11/Group-1.png">
+
+                                        <div class="card-body">
+                                            <h4 class="card-title">Sold my A5 to Car Buyers Group</h4>
+                                            <p class="card-text">Sold my A5 to Car Buyers Group. The whole transaction was quick and easy. No time wasters which is hard to come by when buying or selling cars ! Would recommend.</p>
+                                            <p class="card-text pb-0 mb-0">
+                                                - Stuart Walmsley
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div><!-- // row -->
+                        </div>
+                        <!--// carousel-item -->
+
+
+                    </div>
+                    <!--// carousel-inner -->
+
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselReviews" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselReviews" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+
+                </div>
+                <!--// carousel -->
+
+            </div><!-- // col -->
+        </div><!-- // row -->
+    </section>
